@@ -1,6 +1,6 @@
 # Platform details
 
-Frontend React (Vite) interface for the experimentation and causal-inference backend.
+Frontend React (Vite) interface for the experimentation and causal-inference backend. This project was assigned to me during my internship as Data Science Intern at Nexvia Technologies. I thank them for this opportunity.
 
 ## Run it
 
